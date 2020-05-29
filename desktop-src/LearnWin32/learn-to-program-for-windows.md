@@ -1,6 +1,6 @@
 ---
-title: Get Started with Win32 and C++
-description: The aim of this Get Started series is to teach you how to write a desktop program in C++ using Win32 and COM APIs.
+title: Начните работу с Win32 и C++
+description: Цель серии "Начните работу" - научить Вас писать desctop-приложения на C++ используя Win32 и COM APIs.
 ms.assetid: a9470cb9-a1e7-4d6d-a4be-61b81d209ada
 ms.topic: article
 ms.date: 05/31/2018
@@ -8,7 +8,7 @@ ms.date: 05/31/2018
 
 # Get Started with Win32 and C++
 
-The aim of this Get Started series is to teach you how to write a desktop program in C++ using Win32 and COM APIs.
+Цель серии "Начните работу" - научить Вас писать desctop-приложения на C++ используя Win32 и COM APIs.
 
 In the first module, you'll learn step-by-step how to create and show a window. Later modules will introduce the Component Object Model (COM), graphics and text, and user input.
 
